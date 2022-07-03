@@ -1,0 +1,84 @@
+
+body{
+    font-family: "Times New Roman",times, serif;
+}
+
+#logo{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 15%; */
+    /* border-bottom: 1px palevioletred ; */
+}
+
+img{
+    width: 200px;
+}
+
+.heading-3{
+    text-align: center;
+    background-color:#c472701c;
+    border-top: rgba(245, 177, 41, 0.936) solid 0.9px;
+    padding-bottom: 1px;
+    color: #193b1cf5;
+}
+
+#heading-1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+    
+}
+
+
+.discription,.dish-image, .ingredians{
+    /* text-align: center; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.dish-image img{
+    width: auto;
+    border-radius: 1%;
+}
+
+.recipe-link {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-left: rgba(245, 177, 41, 0.936) solid 0.9px;
+}
+
+.recipe-link h2, a{
+    padding-left: 15px;
+    margin-bottom: auto;
+    color: #f57c00cc;
+    padding-left: 15px
+}
+
+.recipe-link a{
+    color: rgb(50, 139, 158);
+} 
+
+.image-lebel{
+    color: rgb(114, 113, 113);
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredians h2{
+    padding-top: 25px;
+    border-bottom: #54ecec4d solid 1px;
+    padding-bottom: 25px
+}
+.ingredians a{
+    color: rgb(50, 139, 158);
+    padding-left: 2px;
+}
+
